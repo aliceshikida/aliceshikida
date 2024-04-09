@@ -16,22 +16,9 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 - **Linguagens de Programação:** C
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Banco de Dados:** 
-- **Metodologias:** 
 - **Ferramentas:** VS Code
-- *[Adicione outras habilidades relevantes]*
 
-## Projetos Destacados
 
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
 
 - [Nome do Projeto/Open Source]: Breve descrição da contribuição.
 
