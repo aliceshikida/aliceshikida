@@ -14,7 +14,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Habilidades
 
-- **Linguagens de Programação:** C
+- **Linguagens de Programação:** C, C#, SQL, React, Python, Java
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Ferramentas:** VS Code
 
