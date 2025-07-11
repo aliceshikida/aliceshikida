@@ -16,7 +16,12 @@
 
 ###
 
-<p align="left">- 📍 Localização: Belo Horizonte, MG <br>- 📧 Email: aliceshikida12@gmail.com <br>- 🔗 LinkedIn: in/AliceShikida <br>- 📞 Telefone: (22) 997342358</p>
+<p align="left">
+  - 📍 Localização: Belo Horizonte, MG <br>
+  - 📧 Email: <a href="mailto:aliceshikida12@gmail.com">aliceshikida12@gmail.com</a> <br>
+  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/alice-shikida-583162352/" target="_blank" rel="noopener noreferrer">in/AliceShikida</a> <br>
+  - 📞 Telefone: <a href="tel:+5522997342358">(22) 99734-2358</a>
+</p>
 
 ###
 
@@ -142,7 +147,7 @@
 
 ###
 
-<p align="left">Este projeto foi desenvolvido como parte da disciplina de Programação Modular do curso de Engenharia de Software da PUC Minas. O objetivo principal é implementar um sistema para gerenciar hackathons universitários, focando na gestão de equipes e projetos participantes.<br><br>Funcionalidades implementadas: • Criação de equipes com alunos; • Associação de projetos às equipes; • Definição de bancas avaliadoras compostas por jurados; • Cálculo automático da nota final dos projetos com base nas apresentações; • Listagem de projetos aprovados (nota final ≥ 7).<br><br>Detalhes da implementação: • Projeto desenvolvido em Java; • Utilização do padrão Singleton para gerenciar coleções de objetos (equipes e apresentações); • Implementação baseada em diagrama UML fornecido; • Estrutura modular, com foco em encapsulamento e organização de código.<br><br>[Link]</p>
+<p align="left">Este projeto foi desenvolvido como parte da disciplina de Programação Modular do curso de Engenharia de Software da PUC Minas. O objetivo principal é implementar um sistema para gerenciar hackathons universitários, focando na gestão de equipes e projetos participantes.<br><br>Funcionalidades implementadas: • Criação de equipes com alunos; • Associação de projetos às equipes; • Definição de bancas avaliadoras compostas por jurados; • Cálculo automático da nota final dos projetos com base nas apresentações; • Listagem de projetos aprovados (nota final ≥ 7).<br><br>Detalhes da implementação: • Projeto desenvolvido em Java; • Utilização do padrão Singleton para gerenciar coleções de objetos (equipes e apresentações); • Implementação baseada em diagrama UML fornecido; • Estrutura modular, com foco em encapsulamento e organização de código.<br></p>
 
 ###
 
@@ -155,7 +160,7 @@
 
 ###
 
-<p align="left">O Xulambs Rooms é um sistema de gerenciamento de salas de reunião desenvolvido para a Xulambs Inc., focado em otimizar a gestão de espaços em um ambiente de trabalho híbrido. O sistema permite o gerenciamento eficiente de reservas de salas, controle de recursos e geração de relatórios gerenciais.<br><br>Tecnologias Utilizadas:<br>- Java<br>- JDBC para conexão com banco de dados<br>- MySQL/MariaDB como SGBD<br>- Padrão de projeto MVC<br><br>[Link]</p>
+<p align="left">O Xulambs Rooms é um sistema de gerenciamento de salas de reunião desenvolvido para a Xulambs Inc., focado em otimizar a gestão de espaços em um ambiente de trabalho híbrido. O sistema permite o gerenciamento eficiente de reservas de salas, controle de recursos e geração de relatórios gerenciais.<br><br>Tecnologias Utilizadas:<br>- Java<br>- JDBC para conexão com banco de dados<br>- MySQL/MariaDB como SGBD<br>- Padrão de projeto MVC<br></p>
 
 ###
 
@@ -169,7 +174,7 @@
 
 ###
 
-<p align="left">O objetivo deste projeto é criar uma plataforma de busca de restaurantes altamente personalizada, permitindo que os usuários filtrem estabelecimentos com base em critérios específicos, como tipo de culinária, faixa de preço, distância e avaliações. A ideia é oferecer uma experiência de pesquisa mais eficiente e relevante, tanto para consumidores que buscam uma refeição alinhada às suas preferências quanto para os que precisam de recomendações confiáveis em locais desconhecidos.<br><br>[Link]</p>
+<p align="left">O objetivo deste projeto é criar uma plataforma de busca de restaurantes altamente personalizada, permitindo que os usuários filtrem estabelecimentos com base em critérios específicos, como tipo de culinária, faixa de preço, distância e avaliações. A ideia é oferecer uma experiência de pesquisa mais eficiente e relevante, tanto para consumidores que buscam uma refeição alinhada às suas preferências quanto para os que precisam de recomendações confiáveis em locais desconhecidos.<br></p>
 
 ###
 
