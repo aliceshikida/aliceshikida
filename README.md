@@ -19,7 +19,7 @@
 <p align="left">
   - 📍 Localização: Belo Horizonte, MG <br>
   - 📧 Email: <a href="mailto:aliceshikida12@gmail.com">aliceshikida12@gmail.com</a> <br>
-  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/alice-shikida-583162352/" target="_blank" rel="noopener noreferrer">in/AliceShikida</a> <br>
+  - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/alice-shikida-583162352/" target="_blank" rel="noopener noreferrer">AliceShikida</a> <br>
   - 📞 Telefone: <a href="tel:+5522997342358">(22) 99734-2358</a>
 </p>
 
