@@ -48,11 +48,11 @@
 
 ###
 
-<h3 align="center">Minhas Linguagens</h3>
+<img align="right" height="582" src="https://i.imgur.com/tgoesGV_d.webp?maxwidth=760&fidelity=grand"  />
 
 ###
 
-<img align="right" height="582" src="https://i.imgur.com/tgoesGV_d.webp?maxwidth=760&fidelity=grand"  />
+<h3 align="center">Minhas Linguagens</h3>
 
 ###
 
