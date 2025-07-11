@@ -6,23 +6,15 @@
 
 
 
-<table>
-  <tr>
-    <td>Coluna 1</td>
-    <td>Coluna 2</td>
-    <td>Coluna 3</td>
-  </tr>
-  <tr>
-    <td>Linha 1</td>
-    <td>Valor 1</td>
-    <td>Valor 2</td>
-  </tr>
-  <tr>
-    <td>Linha 2</td>
-    <td>Valor 3</td>
-    <td>Valor 4</td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>Seu texto aqui. Coloque qualquer conteúdo que você quiser do lado esquerdo.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="link_da_imagem" alt="Imagem grande" style="width: 100%; max-width: 500px;" />
+  </div>
+</div>
+
 
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
