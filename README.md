@@ -118,16 +118,18 @@
 
 ###
 
-<div align="center">
+
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliceshikida&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="140" alt="Linguagens mais usadas" />
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=aliceshikida&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false)
+
 
   <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aliceshikida&show_icons=true&theme=github_dark&hide_border=false" height="140" alt="Estatísticas do GitHub" />
+ ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aliceshikida&show_icons=true&theme=github_dark&hide_border=false)
 
   <!-- Gráfico de Contribuições -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliceshikida&radius=16&theme=github-dark&area=true&custom_title=Gráfico%20de%20Contribuições" height="200" alt="Gráfico de Contribuições" />
-</div>
+ ![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=aliceshikida&radius=16&theme=github-dark&area=true&custom_title=Gráfico%20de%20Contribuições)
+
+
 
 
 
