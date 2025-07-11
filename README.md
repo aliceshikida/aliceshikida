@@ -134,7 +134,11 @@
 
 ###
 
-<h3 align="left">Sistema de Gerenciamento de Hackathons Universitários</h3>
+<h3 align="left">
+  <a href="https://github.com/MatheusFelipeCorrea/TrabalhoPM-Hackatruck-" target="_blank" rel="noopener noreferrer">
+    Sistema de Gerenciamento de Hackathons Universitários
+  </a>
+</h3>
 
 ###
 
@@ -142,7 +146,12 @@
 
 ###
 
-<h3 align="left">Xulambs Rooms - Sistema de Gerenciamento de Salas de Reunião</h3>
+
+<h3 align="left">
+  <a href="https://github.com/pucmg-aulas/roombookings-g2-manha-powerrangers" target="_blank" rel="noopener noreferrer">
+    Xulambs Rooms - Sistema de Gerenciamento de Salas de Reunião
+  </a>
+</h3>
 
 ###
 
@@ -150,7 +159,13 @@
 
 ###
 
-<h3 align="left">Apptite</h3>
+
+
+<h3 align="left">
+  <a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti2-3687100-restaurante" target="_blank" rel="noopener noreferrer">
+    Apptite
+  </a>
+</h3>
 
 ###
 
