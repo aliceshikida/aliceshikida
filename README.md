@@ -51,7 +51,6 @@
 
 ###
 
-<img align="right" height="582" src="https://i.imgur.com/tgoesGV_d.webp?maxwidth=760&fidelity=grand"  />
 
 ###
 
