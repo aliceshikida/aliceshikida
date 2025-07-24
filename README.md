@@ -175,9 +175,6 @@
 
 ###
 
-<div align="center">
-  <img height="248" src="https://i.imgur.com/0RLm6Vx_d.webp?maxwidth=760&fidelity=grand"  />
-</div>
 
 ###
 
