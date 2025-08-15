@@ -182,6 +182,6 @@
 
 ###
 
-<p align="left">- Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy, 2024) - 56 horas <br><br>- XP Inc. - Full Stack Developer (C#, React) (Dio, 2025) - 127 horas <br><br>- Curso ORACLE: SQL PL/SQL e Modelagem de Banco de Dados (Udemy, 2025) - 32 horas <br><br>- Power BI Aplicado (Udemy, 2024) - 23 horas <br><br>- Algoritmos e Programação Orientada a Objetos com Swift (Hacka Truck, 2024) - 50 horas</p>
+<p align="left">- Microsoft Certified: Azure Fundamentals (AZ-900) <br><br>- AWS Cloud Computing 101 <br><br>- Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy, 2024) - 56 horas <br><br>- XP Inc. - Full Stack Developer (C#, React) (Dio, 2025) - 127 horas <br><br>- Curso ORACLE: SQL PL/SQL e Modelagem de Banco de Dados (Udemy, 2025) - 32 horas <br><br>- Power BI Aplicado (Udemy, 2024) - 23 horas <br><br>- Algoritmos e Programação Orientada a Objetos com Swift (Hacka Truck, 2024) - 50 horas</p>
 
 ###
