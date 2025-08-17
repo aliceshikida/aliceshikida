@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliceshikida&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliceshikida&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliceshikida&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliceshikida&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=pt-br&hide_border=false" height="200" alt="Estatísticas do GitHub" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliceshikida&radius=16&theme=github-dark&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliceshikida&radius=16&theme=github-dark&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
